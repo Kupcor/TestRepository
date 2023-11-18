@@ -16,3 +16,10 @@
 ### Cel Dokumentu
 ### Zakres Dokumentu
 ### Definicje i Skróty
+
+
+| ID | Nazwa Podatności | Poziom Ryzyka | Lokalizacja w Kodzie | Opis | Status Naprawy |
+|----|------------------|---------------|----------------------|------|----------------|
+| 1  | [Nazwa Podatności] | [Niski/Średni/Wysoki] | [np. `app/module.py:123`] | [Krótki opis] | [Niezałatwione/Załatwione] |
+| 2  | [Nazwa Podatności] | [Niski/Średni/Wysoki] | [np. `app/views.py:45`] | [Krótki opis] | [Niezałatwione/Załatwione] |
+| ... | ... | ... | ... | ... | ... |
