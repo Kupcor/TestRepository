@@ -23,3 +23,6 @@
 | 1  | [Nazwa Podatności] | [Niski/Średni/Wysoki] | [np. `app/module.py:123`] | [Krótki opis] | [Niezałatwione/Załatwione] |
 | 2  | [Nazwa Podatności] | [Niski/Średni/Wysoki] | [np. `app/views.py:45`] | [Krótki opis] | [Niezałatwione/Załatwione] |
 | ... | ... | ... | ... | ... | ... |
+
+#### ID 1
+**medium**
