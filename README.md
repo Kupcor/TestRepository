@@ -26,3 +26,15 @@
 
 #### ID 1
 **medium**
+
+| Nazwa podatności                | Kto robi?          | Status        |
+|-------------------------------|------------------|---------------|
+| Broken Access Control         | Patryk Machoczek  | DONE          |
+| Cryptographic Failures        | Patryk Machoczek  | DONE          |
+| SQL Injection                 | Piotr Kupczyk     | In progress   |
+| Insecure Design               |                    | Not started   |
+| Security Misconfiguration     |                    | Not started   |
+| Components                    |                    | Not started   |
+| Integrity Failures            |                    | Not started   |
+| Server-Side Request Forgery   |                    | Not started   |
+| Inne                          |                    | Not started   |
