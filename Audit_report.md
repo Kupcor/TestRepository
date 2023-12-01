@@ -95,6 +95,7 @@ W aplikacji wykryto podatność na przerwanie dostępu z wykorzystaniem pliku Co
 - Konto użytkownika.
 
 **Szczegóły techniczne (Proof of Concept):**
+
 Dostęp do funkcji admina jest zapisany w pliku cookie. Po zalogowaniu jako przykładowy użytkownik `jack:jacktheripper`, wartość cookie admin wynosi 0.
 Aby potwierdzić występowanie podatności, należy wykonać następujące kroki:
 1. Zalogować się do aplikacji jako użytkownik.
