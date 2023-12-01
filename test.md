@@ -7,7 +7,7 @@ The application exhibits a vulnerability to interrupted access via Cookie file m
 - Access to the application,
 - A user account.
 
-**Technical Details (Proof of Concept):**  
+**Technical Details (Proof of Concept):**
 Admin functions access is stored in a cookie file. After logging in as a sample user `jack:jacktheripper`, the cookie's admin value is set to 0.
 To confirm the existence of the vulnerability, the following steps should be performed:
 1. Log in to the application as a user.
